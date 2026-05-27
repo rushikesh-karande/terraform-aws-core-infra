@@ -43,6 +43,7 @@ Step 6: Verify resources in AWS Console
 
 ## 📁 Project Structure
 
+```
 terraform-aws-core-infra/
 ├── modules/
 │   └── vpc/
@@ -53,7 +54,7 @@ terraform-aws-core-infra/
 ├── providers.tf
 ├── variables.tf
 └── README.md
-
+```
 ---
 
 ## 🧪 How to Run
@@ -69,7 +70,7 @@ terraform apply
 ## 📸 Screenshots
 
 ### Screenshot 1: AWS CLI Configuration
-![AWS CLI](screenshots/01-aws-cli-confi.png)
+![AWS CLI](screenshots/01-aws-cli-config.png)
 
 ### Screenshot 2: Terraform Init
 ![Terraform Init](screenshots/02-terraform-init.png)
