@@ -69,7 +69,7 @@ terraform apply
 ## 📸 Screenshots
 
 ### Screenshot 1: AWS CLI Configuration
-![AWS CLI](screenshots/01-aws-cli-configuration.png)
+![AWS CLI](screenshots/01-aws-cli-confi.png)
 
 ### Screenshot 2: Terraform Init
 ![Terraform Init](screenshots/02-terraform-init.png)
@@ -84,10 +84,10 @@ terraform apply
 ![VPC](screenshots/05-vpc-created.png)
 
 ### Screenshot 6: Subnets (Public & Private)
-![Subnets](screenshots/06-subnets-public-private.png)
+![Subnets](screenshots/06-subnets.png)
 
 ### Screenshot 7: Internet Gateway Attached
-![IGW](screenshots/07-internet-gateway-attached.png)
+![IGW](screenshots/07-internet-gateway.png)
 
 ### Screenshot 8: NAT Gateway
 ![NAT](screenshots/08-nat-gateway.png)
